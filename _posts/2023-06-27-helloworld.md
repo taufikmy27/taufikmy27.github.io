@@ -12,7 +12,7 @@ Beep boop...
 
 Hello, world! Taufik's here, an alien &#x1F47D; trying to make contact with you! Finally I have a way to do that which is this personal website, very excited!
 
-This first posting is to test whether it works or not haha. I will try to write my experiences and projects in this site. Hopefully you will enjoy reading the posts here as I do for writing it.
+This first posting is to test whether it works or not haha. I will try to write my experiences and projects in this site. Hopefully you wilçl enjoy reading the posts here as I do for writing it.
 
 Oh, you also can contact me through my social medias that you can find on the left-bottom corner of this site. Don't hesitate to contact me ^^
 
