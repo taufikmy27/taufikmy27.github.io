@@ -29,9 +29,6 @@ Creating a personal website has always been my target for a long time to leave m
 ## What is this website for?
 I'm thinking to use this website as my notes and documentation as I learn and work on something, as well as sharing them publicly. Because most of the time I learn from the public/community, so I want to give it back to the community too. In addition, I can also practice my writing skills and composing articles while running this website. This website will act as my online portfolio and resume to reach out to more people. Besides academic and professional matters, I also plan to share my thought or experience during my study, work, or living as a human being.
 
-So. that's a bit of my introduction as the first post for this website.
-Feel free to connect with me [here](/about/#how-to-contact-me).
-
 Daejeon, South Korea.
 <br>
 3 September 2022.
