@@ -3,6 +3,7 @@ title: About
 icon: fas fa-user
 order: 6
 ---
+
 ## A little bit about me
 
 Hello, Taufik's shere. I'm currently a junior student at [KAIST](https://www.kaist.ac.kr/en/) double majoring in Computer Science and Business & Technology Management.
