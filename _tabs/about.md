@@ -1,7 +1,7 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About
+icon: fas fa-user
+order: 6
 ---
 ## A little bit about me
 
@@ -14,6 +14,7 @@ Feel free to contact me and let's connect!
 ## Skills
 
 I've been learning and trying to apply these skills:
+
 **Technical Skills**
 
 | Python | C |
