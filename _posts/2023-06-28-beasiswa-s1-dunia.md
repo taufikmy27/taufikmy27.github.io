@@ -5,10 +5,6 @@ categories: [Blogging]
 tags: [undergraduate scholarship]
 ---
 
-Here is the blog post translated into Markdown format:
-
----
-
 **Disclaimer: I wrote it long time ago in 2017, it's gonna be a bit cringe but I just wanna transfer it here**
 
 
