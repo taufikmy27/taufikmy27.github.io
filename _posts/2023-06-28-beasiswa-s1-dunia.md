@@ -44,6 +44,6 @@ Selain beasiswa-beasiswa di atas yang sudah saya sebutkan, masih banyak lagi bea
 
 Jadi untuk teman-teman yang membaca tulisan ini saya berpesan jangan takut untuk melanjutkan pendidikan kalian! Sekarang ini sudah banyak beasiswa-beasiswa yang bertebaran, apalagi kita juga berkesempatan untuk belajar di negeri orang, gratis pula. Sekarang tinggal kalian yang menentukan, berani untuk mencoba atau diam dan membuang kesempatan yang kalian punya? Intinya jangan takut untuk mencoba dan jangan takut untuk bermimpi! Semangaaatt!!
 
-> It’s big world out there, it would be a shame not to experience it.
+> It’s big world out there, it would be a shame not to experience it. jh
 
 **-written on June 6, 2017-**
