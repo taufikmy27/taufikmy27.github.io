@@ -42,7 +42,7 @@ Melanjutkan pendidikan ke Perguruan Tinggi memang dirasa penting, terutama bagi 
 
 Selain beasiswa-beasiswa di atas yang sudah saya sebutkan, masih banyak lagi beasiswa-beasiswa untuk undergraduate program seperti Beasiswa Pemerintah Russia, Beasiswa Pemerintah Brunei Darussalam, Beasiswa Pemerintah Republik Ceko, Beasiswa Pemerintah Hungaria, dan beasiswa yang diselenggarakan oleh beberapa universitas tertentu. Namun saya tidak dapat menjelaskannya satu persatu, karena selain banyak sekali, saya pun tidak daftar semua program beasiswa tersebut. Jika kalian tertarik, silakan cari informasinya sendiri ya, jangan jadi pejuang malas hehe.
 
-Jadi untuk teman-teman yang membaca tulisan ini saya berpesan jangan takut untuk melanjutkan pendidikan kalian! Sekarang ini sudah banyak beasiswa-beasiswa yang bertebaran, apalagi kita juga berkesempatan untuk belajar di negeri orang, gratis pula. Sekarang tinggal kalian yang menentukan, berani untuk mencoba atau diam dan membuang kesempatan yang kalian punya? Intinya jangan takut untuk mencoba dan jangan takut untuk bermimpi! Semangaaatt!
+Jadi untuk teman-teman yang membaca tulisan ini saya berpesan jangan takut untuk melanjutkan pendidikan kalian! Sekarang ini sudah banyak beasiswa-beasiswa yang bertebaran, apalagi kita juga berkesempatan untuk belajar di negeri orang, gratis pula. Sekarang tinggal kalian yang menentukan, berani untuk mencoba atau diam dan membuang kesempatan yang kalian punya? Intinya jangan takut untuk mencoba dan jangan takut untuk bermimpi! Semangaaatt!!
 
 > It’s big world out there, it would be a shame not to experience it.
 
