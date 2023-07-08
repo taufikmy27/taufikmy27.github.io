@@ -1,6 +1,6 @@
 ---
 title: "Human-Computer Interaction Course Project: Marry Me - A Wedding Venue Finder"
-date: 2023-07-08 15:57:00 +0900
+date: 2023-07-08 17:08:00 +0900
 categories: [Projects]
 tags: [project, human-computer interaction]
 comments: true
