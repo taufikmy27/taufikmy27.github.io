@@ -10,21 +10,21 @@ image:
   path: /assets/post/img/teamlgm1.JPG
 ---
 
-During my last semester, I embarked on a fascinating journey in a Human-Computer Interaction course. My team, "Let's Get Married", and I developed an innovative solution named "MarryMe". The project aimed to simplify the process of finding a wedding venue by incorporating a user-friendly interface and a unique matching game that combines the preferences of both partners.
+During my last semester, I embarked on a fascinating journey in a Human-Computer Interaction course. My team, "Let's Get Married", and I developed an innovative solution named "MarryMe". The project aimed to simplify the process of finding a wedding venue by incorporating a user-friendly interface and a unique matching game that combines the preferences of both partners. At the end of the projects, we only  needed to develop the prototype using Figma.
 
 ## Key Features
 
-1. **Matching Game**: I designed a simple matching game where users can combine their preferences with their partner's. The algorithm I developed analyzes the best combination of their preferences. The result is an AI-generated visualization of the couple's combined preferences, aiding users in visualizing their venue.
+1. **Matching Game**: We designed a simple matching game where users can combine their preferences with their partner's. The result is an AI-generated visualization of the couple's combined preferences, aiding users in visualizing their venue. This was the concept, we did not implement the AI part here. 
 
-2. **Venue Search**: I created a feature where users can search venues that match their combined preferences based on the matching game result. 
+2. **Venue Search**: We created a feature where users can search venues that match their combined preferences based on the matching game result. 
 
-3. **Efficient Communication**: I included a chat page to improve communication with venue owners, eliminating the need for back-and-forth emails or phone calls.
+3. **Efficient Communication**: We included a chat page to improve communication with venue owners, eliminating the need for back-and-forth emails or phone calls.
 
-4. **Safety Measures**: I implemented confirmation prompts for critical actions, such as cancelling a booking or leaving the game while playing, to prevent unintentional mistakes.
+4. **Safety Measures**: We implemented confirmation prompts for critical actions, such as cancelling a booking or leaving the game while playing, to prevent unintentional mistakes.
 
 ## Design Iterations
 
-Throughout the project, we made several iterations to our design based on user feedback and heuristic evaluations. I addressed usability issues, increased transparency, streamlined user flows, and improved readability. I learned the importance of addressing usability issues promptly, enhancing transparency in AI-generated content, and using appropriate visual cues for successful interactions.
+Throughout the project, we made several iterations to our design based on user feedback and heuristic evaluations. We addressed usability issues, increased transparency, streamlined user flows, and improved readability. We learned the importance of addressing usability issues promptly and using appropriate visual cues for successful interactions.
 
 ## Team Reflection
 
