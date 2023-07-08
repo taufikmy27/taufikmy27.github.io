@@ -1,8 +1,8 @@
 ---
 title: "Scholarship Application Story Epilogue: The Dilemma and The Decision"
 date: 2023-07-08 15:57:00 +0900
-categories: [Blogging]
-tags: [blog, undergraduate scholarship]
+categories: [Blogs]
+tags: [undergraduate scholarship]
 comments: true
 math: false
 mermaid: false

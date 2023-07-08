@@ -38,17 +38,17 @@ The project provided a significant learning opportunity in user-centered design 
 
 Here are some representative screenshots from the interface:
 
-![Figure 1](https://hackmd.io/_uploads/Hki0u0twn.png){: .shadow width="400" height="200" style="max-width: 90%" }
+![Figure 1](https://hackmd.io/_uploads/Hki0u0twn.png){: width="400" height="200" style="max-width: 90%" }
 
 Figure 1. User can play a simple matching game to combine their preference and their partner's preferences. The algorithm will combined their answers and analyse the best combination of their preferences.
 
 
-![Figure 2](https://hackmd.io/_uploads/rkzmZAKPh.png){: .shadow width="400" height="200" style="max-width: 90%" }
-![Figure 3](https://hackmd.io/_uploads/Byfm-RFvn.png){: .shadow width="400" height="200" style="max-width: 90%" }
+![Figure 2](https://hackmd.io/_uploads/rkzmZAKPh.png){: width="400" height="200" style="max-width: 90%" }
+![Figure 3](https://hackmd.io/_uploads/Byfm-RFvn.png){: width="400" height="200" style="max-width: 90%" }
 
 Figure 2 and 3. User can combine their preferences with their partner through a simple game. At the end of the game, user gets an AI-generated visualization of the couple's combined preferences.
 
-![Figure 4](https://hackmd.io/_uploads/B1CNpTKvh.png){: .shadow width="400" height="200" style="max-width: 90%" }
+![Figure 4](https://hackmd.io/_uploads/B1CNpTKvh.png){: width="400" height="200" style="max-width: 90%" }
 
 Figure 3. User can search venues that matches their combined preferences with the partner based on the matching game result.
 
@@ -61,19 +61,18 @@ This course was a turning point for me. It was the first time I felt genuinely e
 
 Here are some images that document our team's journey throughout the project:
 
-![Team Image 1](/assets/post/img/teamlgm1.JPG){: .shadow width="600" height="300" style="max-width: 90%" }
+![Team Image 1](/assets/post/img/teamlgm1.JPG){: width="600" height="300" style="max-width: 90%" }
 
 We after the last presentation DP6
 
-![Team Image 2](/assets/post/img/teamlgm2.jpeg){: .shadow width="400" height="200" style="max-width: 90%" }
+![Team Image 2](/assets/post/img/teamlgm2.jpeg){: width="400" height="200" style="max-width: 90%" }
 
 My team and some Indonesian friends celebrating my birthday: May 27, 2023 🥹
 
-![Team Image 3](/assets/post/img/teamlgm3.JPG){: .shadow width="400" height="200" style="max-width: 90%" }
+![Team Image 3](/assets/post/img/teamlgm3.JPG){: width="400" height="200" style="max-width: 90%" }
 
 Just us going to photobooth haha
 
-<!-- Add more images as needed -->
 
 
 

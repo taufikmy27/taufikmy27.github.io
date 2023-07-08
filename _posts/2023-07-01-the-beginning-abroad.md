@@ -1,8 +1,8 @@
 ---
 title: "The Beginning: Abroad"
 date: 2023-07-01 08:33:00 +0900
-categories: [Blogging]
-tags: [blog]
+categories: [Blogs]
+tags: [undergraduate scholarship]
 comments: true
 math: false
 mermaid: false

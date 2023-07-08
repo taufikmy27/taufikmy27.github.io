@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beasiswa S1 Dunia!"
-categories: [Blogging]
+categories: [Blogs]
 tags: [undergraduate scholarship]
 ---
 
